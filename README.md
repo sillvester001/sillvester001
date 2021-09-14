@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sillvester001
 - 👀 I’m interested in web development
-- 🌱 I’m currently using php for back-end (learning back end using js)
+- 🌱 I’m currently using php for back-end
 - 💞️ I’m looking to collaborate on any issue I can help
 - 📫 reach me sillvestermaina@gmail.com 
 
