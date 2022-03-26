@@ -30,4 +30,4 @@ My website/Portfolio: https://sillvester001.github.io/
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
 </p>
 <!-- https://github.com/alexandresanlim/Badges4-README.md-Profile -->
-<!-- Direct donations: https://ko-fi.com/<br> -->
+Direct donations:  <a href="https://ko-fi.com/stalonverse"><img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white" alt="coffee"></a>
