@@ -3,7 +3,7 @@
 </p>
   
 I'm Silvester, a web developer full-time from Kenya!
-I spend far more time bulding great things for human and this is where you can find it.
+I spend far more time building great things for human and this is where you can find it.
 
 My website/Portfolio: https://sillvester001.github.io/
 <p align="center">
