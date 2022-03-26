@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://tcno.co"><img src="profile.jpeg" alt="Maina" width="60%"></a>
+  <a href="https://tcno.co"><img src="profile.jpeg" alt="Maina" width="60%" height= "400px"></a>
 </p>
   
 I'm Silvester, a web developer full-time from Kenya!
