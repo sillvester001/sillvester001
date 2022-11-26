@@ -5,7 +5,8 @@
 I'm Silvester, a web developer full-time from Kenya!
 I spend far more time building great things for human and this is where you can find it.
 
-My website/Portfolio: https://sillvester001.github.io/
+<!-- My website/Portfolio: https://[sillvester001.github.io/](https://delicate-pudding-8335b5.netlify.app/#home) -->
+My website/Portfolio: https://delicate-pudding-8335b5.netlify.app/#home
 <p align="center">
  <a href="#"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github"></a>
   <a href="https://twitter.com/stalonmainah1"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
